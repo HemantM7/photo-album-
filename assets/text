@@ -1,0 +1,3 @@
+https://api.unsplash.com/photos/?client_id=YOUR_ACCESS_KEY
+https://api.unsplash.com/photos?page=1
+https://api.unsplash.com/photos?per_page=20&client_id=$(API_KEY)
